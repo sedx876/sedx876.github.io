@@ -1,11 +1,11 @@
 # Site settings
 author: Sharon Watkins
-title: 
+title: Password Accepted
 header-img: img/home-bg.png
 email: swatkins876@gmail.com
 copyright_name: Sharon Watkins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A personal journey through learning tech.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: SedX876
 github_username:  sedx876
