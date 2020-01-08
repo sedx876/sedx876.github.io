@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "All The Small Things"
-date:       2020-01-08 19:21:01 +0000
+date:       2020-01-08 14:21:02 -0500
 permalink:  all_the_small_things
 ---
 
